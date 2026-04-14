@@ -1,12 +1,12 @@
 {
   "FR": [],
   "SFM": [],
-  "Audit": ["Introduction to Auditing"],
+  "Audit": ["Introduction to Auditing", "Definition and Nature of Auditing"],
   "Law": [],
   "ISCA": [],
   "Costing": [],
-  "last_updated": "2026-04-13T18:20:00Z",
-  "total_topics_covered": 1,
+  "last_updated": "2026-04-14T03:55:00Z",
+  "total_topics_covered": 2,
   "target_completion_date": "2027-04-30",
   "daily_goal": null
 }

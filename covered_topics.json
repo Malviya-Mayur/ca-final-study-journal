@@ -1,12 +1,14 @@
 {
   "FR": [],
+  "IDT": ["Introduction to Indirect Taxes", "GST and Indirect Tax System"],
   "SFM": [],
-  "Audit": ["Introduction to Auditing", "Definition and Nature of Auditing", "Objectives of Auditing"],
+  "AFM": [],
+  "Audit": ["Introduction to Auditing", "Definition and Nature of Auditing", "Objectives of Auditing", "Audit Planning and Risk Assessment", "Internal Control Evaluation", "Audit Evidence Collection"],
   "Law": [],
   "ISCA": [],
   "Costing": [],
-  "last_finished_reading": "2026-04-15T14:00:00Z",
-  "total_topics_covered": 3,
+  "last_finished_reading": "2026-04-16T16:30:00Z",
+  "total_topics_covered": 8,
   "target_completion_date": "2027-04-30",
-  "daily_goal": null
+  "daily_goal": 3
 }
